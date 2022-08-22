@@ -21,6 +21,15 @@
 4. GND  -> GND
 
 ## RELAY - Solenoid Valve
-1. Signal   -> 12
+1. Signal   -> 22
 2. VCC      -> 5V
 3. GND      -> GND
+
+## BUZZER
+1. Signal   -> 24
+2. VCC      -> 5V
+3. GND      -> GND
+
+## Interrupt Button
+1. Signal   -> 2
+2. GND      -> GND
